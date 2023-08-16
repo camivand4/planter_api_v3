@@ -1,0 +1,11 @@
+### dotenv ###
+.env
+
+# Dependency directories
+node_modules/
+
+private.key
+
+certificate.crt
+
+114BF464AE4BBC8986D5A5B7D33FAF0A.txt
